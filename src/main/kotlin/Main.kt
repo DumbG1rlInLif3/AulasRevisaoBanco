@@ -1,5 +1,8 @@
-package org.example
+
+import org.exemple.ui.menu
 
 fun main() {
-    println("Hello World!")
+
+    menu();
+
 }
