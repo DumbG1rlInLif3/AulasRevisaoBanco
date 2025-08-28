@@ -57,7 +57,7 @@ fun cadastrarCaixa(){
 
     println("Qual o peso da largura: ")
     val largura = readln().toDouble()
-    
+
     println("Qual a profundidade da caixa: ")
     val profundidade = readln().toDouble()
 
